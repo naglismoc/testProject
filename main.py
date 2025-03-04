@@ -77,6 +77,7 @@ import random
 # if 7 < pazymys < 9: #daugiau uz 7 bet maziau uz 9
 #     print("greiciausiai yra 8")
 
+print("hi")
 
 
 
@@ -125,4 +126,4 @@ print("atsitiktines reiksmes yra " + str(atsitiktinis_sk1) + " , " + str(atsitik
 starWars = "Star Wars: Episode " + (" " * random.randint(1, 9)) + str(random.randint(1, 7)) + " - A New Hope"
 print(starWars)
 
-var = "labas vakaras"
+var = "labas vakaras :)"
