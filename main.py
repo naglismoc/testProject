@@ -114,10 +114,7 @@ else:
     else:
         print("isitaysisiu patogiai lovoj ir klausysiuos lietaus :)")
 
-
-
 print(random.randint(0,4))
-
 
 atsitiktinis_sk1 = random.randint(0,4)
 atsitiktinis_sk2 = random.randint(0,4)
@@ -128,4 +125,4 @@ print("atsitiktines reiksmes yra " + str(atsitiktinis_sk1) + " , " + str(atsitik
 starWars = "Star Wars: Episode " + (" " * random.randint(1, 9)) + str(random.randint(1, 7)) + " - A New Hope"
 print(starWars)
 
-
+var = "labas vakaras"
